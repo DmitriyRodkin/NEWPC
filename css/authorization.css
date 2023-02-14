@@ -42,3 +42,6 @@ footer{
 .search_padding{
     padding-left: 300px;
 }
+.button-click{
+    display:none ;
+}
